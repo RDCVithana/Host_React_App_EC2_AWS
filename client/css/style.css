@@ -12,6 +12,10 @@ body {
   background-repeat: no-repeat;
 }
 
+a{
+  color: #5cff68;
+}
+
 /* custom scrollbar */
 ::-webkit-scrollbar {
   width: 11px;
